@@ -139,8 +139,18 @@ nav ul {
 	font-size: 1.12rem;
 }
 
-
-
+.placeholder {
+	display: grid;
+	place-items: center;
+	width: 100vw;
+	height: 100vh;
+}
+.footer {
+	display: grid;
+	place-items: center;
+	background: var(--green);
+	padding: 1rem;
+}
 
 
 
